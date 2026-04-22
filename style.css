@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+img {
+  max-width: 100%;
+}
+
+body {
+  min-height: 100svh;
+  color: rgb(216, 0, 126);
+}
+
+h1 {
+  width: 400px;
+  /* margin-top: 20px; */
+  /* margin-block: 20px; */
+  margin: 20px auto 10px auto;
+}
+
+article {
+  border: black solid 2px;
+  max-width: 500px;
+  margin-inline: auto;
+  margin-top: 20px;
+  border-radius: 10px;
+}
+
+#article-heading {
+  min-height: 200px;
+  padding: 20px;
+}
+
+h2 {
+  text-align: center;
+  margin-top: 10px;
+}
+
+#article-heading p {
+  max-width: 300px;
+  margin-inline: auto;
+}
