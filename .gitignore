@@ -1,0 +1,37 @@
+# Windows sisteminiai failai
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Redaktorių nustatymai (VS Code, Cursor, IntelliJ)
+.vscode/
+.cursor/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# OneDrive ir Debesų saugyklų laikinieji failai
+*.un~
+.fuse_hidden*
+.directory
+.Trash-*
+.nfs*
+
+# Log failai
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Node modules (jei ateityje naudosi JS bibliotekas)
+node_modules/
+
+# OS X failai (jei netyčia dirbtum su Mac)
+.DS_Store
+.AppleDouble
+.LSOverride
